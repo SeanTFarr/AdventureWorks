@@ -31,6 +31,7 @@ This page gives the data on the selected product. It defaults to the top product
 <img src = images\Product_detail_price_adj.jpg>
 
 To access another product, you would select an item on the product list on the Exec Summary page, then right click and select "Drill through" and "Product Detail"
+
 <img src =images\Drill_through.jpg >
 
 This brings you to the Produt details of the selected product and see how it is doing based on current data as well as see any differences that could happen if adjusting the price.
@@ -39,7 +40,7 @@ This brings you to the Produt details of the selected product and see how it is 
 
 ### The Customer Detail page.
 
-THis page gives us the demographics of the customers of Adventure Works Cycles. It defaults to show all demographics and highlights the top customer.
+This page gives us the demographics of the customers of Adventure Works Cycles. It defaults to show all demographics and highlights the top customer.
 
 <img src = images\Customer_Detail.jpg>
 
@@ -48,4 +49,4 @@ WHen you click on a specific customer, the information on the specific customer 
 <img src = images\Customer_Detail_clicked.jpg>
 
 ## In the End...
-In the end, both Tableau and Power BI are excellent and the choice between them really only boil down to your own preferences. I really enjoyed learning how Power BI works and will continue to use it. Not just from it becoming so comfortable after taking this course, but also due to my company switching over to it exclusively about 2 months ago.
+In the end, both Tableau and Power BI are excellent and the choice between them really only boil down to your own preferences. I really enjoyed learning how Power BI works and will continue to use it. Not just from it becoming so comfortable after taking this course, but also due to my company switching over to it exclusively about 2 months ago :grin: .
