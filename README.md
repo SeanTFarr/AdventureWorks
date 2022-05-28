@@ -50,3 +50,4 @@ WHen you click on a specific customer, the information on the specific customer 
 
 ## In the End...
 In the end, both Tableau and Power BI are excellent and the choice between them really only boil down to your own preferences. I really enjoyed learning how Power BI works and will continue to use it. Not just from it becoming so comfortable after taking this course, but also due to my company switching over to it exclusively about 2 months ago :grin: .
+This course gave a bonus section that let's you test your new found skills on a completely different dataset for *Maven Market*. My progress/end results can be found here: https://github.com/SeanTFarr/Maven_Market
